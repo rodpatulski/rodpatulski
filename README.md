@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rodpatulski
-- 👀 I’m interested in full stack coding 
+- 👀 I’m mostly a web developer using typescript but I have experience writing in C/C++ including compuer graphics.
 - 📫 How to reach me ... radek79@gmail.com
 
 <!---
